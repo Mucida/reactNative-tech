@@ -16,3 +16,8 @@ const App = () => {
 };
 
 export default App;
+
+/*
+Data -> reducers
+reducers produces app states, and states holds the apps data
+*/
