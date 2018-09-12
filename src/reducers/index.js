@@ -8,5 +8,5 @@ export default combineReducers({
 });
 
 /*
-as the libries are the datas on our app, we should produce them with reducers
+as the libraries are the datas on our app, we should produce them with reducers
 */
